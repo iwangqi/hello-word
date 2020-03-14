@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 just a sample repository
 hello  this is a just test 
 i find a so sorrow fact that i have frogoten the steps to use github totally
